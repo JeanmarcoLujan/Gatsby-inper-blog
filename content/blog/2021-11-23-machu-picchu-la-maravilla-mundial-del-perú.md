@@ -5,7 +5,7 @@ date: 2021-11-23T03:52:07.317Z
 thumbnail: /assets/images/descarga.png
 rating: 5
 ---
-![](/assets/images/machu-picchu_5ff969ae_1280x720.jpg "Machu Picchu")
+![mnachupicchu](/assets/images/machu-picchu_5ff969ae_1280x720.jpg "Machu Picchu")
 
 <!--StartFragment-->
 

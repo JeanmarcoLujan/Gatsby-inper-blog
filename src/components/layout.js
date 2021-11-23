@@ -25,9 +25,9 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
+        © {new Date().getFullYear()}, En colaboración con
         {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+        <a target="_blank" href="https://www.instagram.com/inperu_peru/">@inperu_peru</a>
       </footer>
     </div>
   )

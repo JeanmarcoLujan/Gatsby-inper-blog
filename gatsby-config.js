@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `InPer Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `inperu_peru`,
+      summary: `quien tiene la intención de difundir nuestra cultura y dar a conocer los increíbles y bellisimos  lugares que tiene el Perú.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      instagram: `inperu_peru`,
     },
   },
   plugins: [

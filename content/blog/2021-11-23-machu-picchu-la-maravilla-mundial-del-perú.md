@@ -5,7 +5,7 @@ date: 2021-11-23T03:52:07.317Z
 thumbnail: /assets/images/descarga.png
 rating: 5
 ---
-![mnachupicchu](/assets/images/machu-picchu_5ff969ae_1280x720.jpg "Machu Picchu")
+![mnachupicchu](/machu.jpg "Machu Picchu")
 
 <!--StartFragment-->
 
@@ -33,4 +33,4 @@ Por otro lado, en el casco urbano se localizan la Residencia Real, que era la vi
 
 <!--EndFragment-->
 
-![](/assets/images/sin-título.png)
+![hola](/machu-vista.png)
